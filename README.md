@@ -1,2 +1,1 @@
-Building the google.com homepage with HTML/CSS
-Where to start??
+In this mini-project I built a replica of the google homepage using HTML and CSS.
